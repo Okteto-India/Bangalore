@@ -1,5 +1,5 @@
 # Welcome To okteto Workshop 
-
+![](https://secure.meetupstatic.com/photos/event/6/2/6/c/600_488185196.jpeg) <br>
 What we're about
 
 Learn, Collaborate & Develop the coolest applications with the coolest technology!
