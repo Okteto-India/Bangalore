@@ -13,3 +13,6 @@ https://okteto.com/
 Share your application with the world by adding them to the Okteto Cloud Application Catalog, and put your ideas in production with the click of a button.
 
 Learn more about Okteto and join us on Twitter( https://twitter.com/oktetohq ), or in the #okteto channel in the Kubernetes community Slack
+
+## Workshop based on Okteto Cloud 
+Okteto Cloud gives you free access to sandboxed Kubernetes namespaces, fully integrated with remote development capabilities. Develop your Kubernetes applications in Okteto Cloud and forget about slow and tedious local development forever. 
