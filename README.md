@@ -17,4 +17,4 @@ Learn more about Okteto and join us on [Twitter](https://twitter.com/oktetohq), 
 
 Okteto Cloud gives you free access to sandboxed Kubernetes namespaces, fully integrated with remote development capabilities. Develop your Kubernetes applications in Okteto Cloud and forget about slow and tedious local development forever. 
 
-- [Okteto for Beginners](./Okteto-for-Beginners/)
+- [Okteto for Beginners](./Beginners)
