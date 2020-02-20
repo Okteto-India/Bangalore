@@ -8,4 +8,9 @@
 - OKteto CheatSheat for Kubernetes Developer 
 - OKteto with VScode 
 - Okteto For Pycharm 
+- Deploy OpenFaaS in One Click
+- Step Out from the Dark Ages, Develop the Cloud Native Way
+- Develop and Deploy a Grails application in Okteto Cloud
+- How to Develop and Debug PHP Applications in Kubernetes
+
 
