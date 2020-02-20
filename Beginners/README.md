@@ -1,4 +1,6 @@
 
+- What is Okteto ?
+- Why we need Okteto for Kubernetes Developement?
 - Getting Started on Okteto with Go
 - Getting Started on Okteto with python 
 - Getting Started on Okteto with Node.js
